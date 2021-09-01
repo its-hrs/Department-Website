@@ -91,7 +91,9 @@
         margin: 5px;
         width: 70%;
         background-color: #c74721;
-        white-space:nowrap
+        white-space:nowrap;
+        margin-left: 14%;
+        margin-bottom: 5%;
 
       }
       .thcont3 {
@@ -123,11 +125,6 @@
           font-family: 'Ubuntu','Sans-Serif';
           background-color: black;
 
-      }
-
-      .paprcont{
-          margin-left: 14%;
-          margin-bottom: 5%;
       }
 
       .paprh3{
