@@ -104,6 +104,7 @@
         width: 70%;
         white-space:nowrap;
       }
+
       .tdcont3 {
         border: 1px solid black;
         border-collapse:collapse;
@@ -112,6 +113,7 @@
         background-color: #c74721;
         width: 70%;
         white-space:nowrap;
+        text-align: center;
       }
        
       .navbar{
